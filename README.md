@@ -1,2 +1,2 @@
 # bookr
-El proyecto Bookr A lo largo de este libro, construirá progresivamente una aplicación llamada Bookr. Está diseñado para permitir a los usuarios buscar y agregar reseñas de libros (y libros también). A medida que complete los ejercicios y actividades de cada capítulo, agregará más funciones a la aplicación. El repositorio de GitHub para este libro contiene carpetas individuales para los ejercicios y actividades. Estas carpetas suelen incluir los archivos en los que ha cambiado el código de la aplicación.
+El proyecto Bookr está diseñado para permitir a los usuarios buscar y agregar reseñas de libros. 
